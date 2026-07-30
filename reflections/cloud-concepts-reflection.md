@@ -1,1 +1,10 @@
+ Cloud Computing Reflection
+
+Cloud computing has become part of my daily life, even if I do not always notice it. Many of the applications I use every day rely on cloud technology to store data, provide services, and keep my information accessible across different devices. Three cloud services that I regularly use are Google Drive, Facebook Messenger, and GCash.
+
+Google Drive is an example of Software as a Service (SaaS) because it allows me to store, organize, and access my files through a web browser without installing or managing the underlying infrastructure. It follows a Public Cloud deployment model since its services are available to millions of users over the internet. Facebook Messenger is also a SaaS application because Meta manages the software while users simply communicate through the platform. It is also considered a Public Cloud service because anyone with an account can use it online. GCash is another SaaS application that provides digital payment and financial services through the internet. It also operates on a Public Cloud because customers securely access the same online platform from different locations.
+
+Version control is one of the most important practices when working on cloud-based projects. Cloud infrastructure often changes as new features, updates, and security improvements are added. Without version control, it would be difficult to know who made changes or how to recover from mistakes. Git and GitHub solve this problem by recording every update made to a project.
+
+GitHub also makes collaboration easier because multiple developers can work on the same repository without overwriting each other's work. Features such as branches, pull requests, and commit history help teams review changes before they become part of the main project. If an error occurs, previous versions can easily be restored. Through this activity, I realized that cloud computing and version control work together to make software development more organized, secure, and efficient, especially for modern applications that rely on cloud technologies.
 
