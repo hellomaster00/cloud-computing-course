@@ -80,3 +80,19 @@ AWS is recommended for the global e-commerce company because it provides global 
 
 The recommendations show that the best cloud provider depends on the client's specific requirements. AWS is a strong general-purpose platform for startups and global applications, Azure is highly suitable for organizations using Microsoft technologies, and Google Cloud is a strong choice for AI and machine learning workloads.
 
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+The following decision matrix recommends the most appropriate cloud platform based on different business requirements.
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a wide range of scalable services that can support startups as they grow while allowing them to begin with smaller resources. |
+| Enterprise Organization | AWS | AWS provides a broad ecosystem of services that can support complex enterprise workloads, applications, databases, security, and networking requirements. |
+| Microsoft Environment | Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, Active Directory, and SQL Server. |
+| AI / Machine Learning | GCP | Google Cloud provides strong artificial intelligence, machine learning, data analytics, and high-performance computing capabilities. |
+| Kubernetes Deployment | GCP | Google Cloud provides Google Kubernetes Engine (GKE) and has strong expertise in Kubernetes and containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, scalable computing, load balancing, and content delivery services that can support applications serving users around the world. |
+
+## Decision Matrix Summary
+
+The decision matrix demonstrates that different business requirements can lead to different cloud platform recommendations. AWS is a strong general-purpose choice for startups, enterprises, and global web applications. Azure is particularly appropriate for organizations that depend heavily on Microsoft technologies, while GCP is a strong option for artificial intelligence, machine learning, and Kubernetes workloads.
